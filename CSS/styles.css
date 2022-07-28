@@ -1,8 +1,10 @@
+/* Navbar */
 .navbar-center {
   position: absolute;
   left: 50%;
   transform: translatex(-50%);
 }
+/* Slider */
 .carousel-inner {
   max-height: 800px;
 }
