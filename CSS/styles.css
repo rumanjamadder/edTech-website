@@ -52,3 +52,15 @@
   padding-top: 50px;
   padding-left: 50px;
 }
+/* Explore-Static Section */
+.card-text-00 {
+  padding-top: 80px;
+}
+.text-custom-1 {
+  margin-left: 384px;
+}
+.read-more-button {
+  background: #289bde;
+  border: 1px solid #289bde;
+  border-radius: 5px;
+}
