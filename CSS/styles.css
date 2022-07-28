@@ -32,3 +32,17 @@
   margin-left: 330px;
   margin-right: 325px;
 }
+/* Ready Section */
+.custom-height-width {
+  width: 1320px;
+  height: 300px;
+  background: #289bde;
+  border-radius: 5px;
+}
+.modal-button {
+  background-color: white;
+  color: #289bde;
+  width: 150px;
+  height: 56px;
+  margin-left: 800px;
+}
