@@ -11,6 +11,10 @@
 .carousel-inner img {
   max-height: 600px;
 }
+.for-shadow {
+  filter: brightness(60%);
+}
+
 /* Courses */
 .course-caption-01 {
   font-family: "Poppins";
